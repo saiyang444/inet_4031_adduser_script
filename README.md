@@ -10,7 +10,7 @@
 
 ## Input File Format
 
-### The input file is formatted into 5 fields separated by a ':'. The first field is user, second is password, thrid is lastname, fourth is firstname, and fifth is group. If the user does not include enough field, this system will utilize an 'if' statement and skip it. If the user does not want to add a user to any group, they can input '-' in the group field.
+### The input file is formatted into 5 fields separated by a ':'. The first field is user, second is password, third is lastname, fourth is firstname, and fifth is group. If the user does not include enough field, this system will utilize an 'if' statement and skip it. If the user does not want to add a user to any group, they can input '-' in the group field.
 
 ## Command Execuction
 
