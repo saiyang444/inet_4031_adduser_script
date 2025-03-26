@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 
 # INET4031
-# Your Name
-# Data Created
-# Date Last Modified
+# Sai Yang
+# 03/25/2025
+# 03/25/2025
 
 #The os module allows for the code to handle cwd, mkdir, ls, rmdir.
 #The re module allows for the code to use regular expression such as findall, search, split, and sub
